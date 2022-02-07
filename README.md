@@ -10,6 +10,12 @@ bike share project
 in this project we need to use python libraries:pandas,numpy
 
 ### Files used
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
@@ -17,6 +23,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 this is the project done by me through udacity
 thanks to udacity
 
-
+inthis project we will learn how to use data frames 
+numpy 
+pandAS
 
 

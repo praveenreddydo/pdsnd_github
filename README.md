@@ -7,14 +7,16 @@ feb/7/2022.
 bike share project
 
 ### Description
-Describe what your project is about and what it does
+in this project we need to use python libraries:pandas,numpy
 
 ### Files used
-Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 this is the project done by me through udacity
 thanks to udacity
+
+
+
 
